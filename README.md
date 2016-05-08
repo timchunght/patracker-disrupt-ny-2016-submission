@@ -3,7 +3,8 @@
 Disrupt NY 2016 Submission: 
 
 Disrupt staff or judges, please contact
-``timchunght@gmail.com`` or ``quanghuynh@gmail.com`` for access to to source code for auditing.
+``timchunght@gmail.com`` or ``quanghuynh@gmail.com`` for access to source code for auditing.
+
 
 ### Our Stack
 * Rails API Backend
